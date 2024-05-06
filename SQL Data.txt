@@ -1,0 +1,37 @@
+--Create statement
+--Insert statement
+--select statement
+--*, count, distinct, max, min, avg, top
+--where statement
+--=, <>, <, >, and, or, like, Null, Not Null, In ()
+--group by, order by desc
+--Update, set, where
+--delete from, where
+
+CREATE DATABASE SQL Tutorial;
+USE [SQL Tutorial]
+
+-- Creating a student table
+--CREATE TABLE StudentDemographics (
+--StudentID int,
+--FirstName varchar(50),
+--lastName varchar(50),
+--Age int,
+--Gender varchar(6)
+--)
+
+
+/* Inserting data into StudentDemographics
+INSERT INTO StudentDemographics VALUES 
+(1000, 'Peter', 'Paul', 21, 'Male'),
+(1001, 'James', 'John', 22, 'Male'),
+(1002, 'Faith', 'Opeyemi', 20, 'Female'),
+(1003, 'Joy', 'Johnson', 19, 'Female'),
+(1004, 'Peter', 'Andrew', 22, 'Male'),
+(1005, 'Grace', 'Daniel', 24, 'Female'),
+(1006, 'David', 'Moses', 21, 'Male'),
+(1007, 'Mercy', 'John', 19, 'Female'),
+(1008, 'Peace', 'Prince', 25, 'Female'),
+(1009, 'Emmanuel', 'Paul', 23, 'Male') */
+--To view StudentDemographics table
+--SELECT * FROM StudentDemographics;

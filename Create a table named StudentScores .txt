@@ -1,0 +1,12 @@
+Create a table named StudentScores under SQL Tutorial Database,  with the following fields: StudentID, Department, Score.
+
+
+ (1000, 'Science', 80),
+ (1001, 'Art', 56),
+ (1002, 'Science', 76),
+ (1003, 'Commerce', 45),
+ (1004, 'Art', 90),
+ (1005, 'Commerce', 50),
+ (1006, 'Science', 69),
+ (1007, 'Science', 77),
+ (1008, '', 90)
